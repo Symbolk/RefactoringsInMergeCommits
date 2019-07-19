@@ -78,8 +78,9 @@ public class RefactoringAnalysis {
             analyzeProject(project);
             project.setDone();
             project.saveIt();
-            Utils.log(projectName, "Finished the analysis, removing the repository...");
-            removeProject(projectName);
+//            Utils.log(projectName, "Finished the analysis, removing the repository...");
+            Utils.log(projectName,  String.format("Finished the analysis of %s.", projectName));
+//            removeProject(projectName);
             Utils.log(projectName, "Done with " + projectName);
         } catch (JGitInternalException | GitAPIException | IOException e) {
             Utils.log(projectName, e);
