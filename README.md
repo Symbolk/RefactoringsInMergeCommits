@@ -96,7 +96,7 @@ Directly use the dumped data used in the evaluation of IntelliMerge, no need to 
 
 5. Running results will be printed in the `Run` tab, go to the end of the first line, and copy the text highlighted in the following figure:
 
-   ![step2-0](https://github.com/Symbolk/RefactoringsInMergeCommits/blob/master/screenshots/step2-0.png)
+   ![step2-0](https://github.com/Symbolk/RefactoringsInMergeCommits/blob/master/screenshots/Step2-0.png)
 
    ![step2](https://github.com/Symbolk/RefactoringsInMergeCommits/blob/master/screenshots/step2.png)
 
