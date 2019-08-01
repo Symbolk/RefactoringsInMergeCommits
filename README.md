@@ -6,7 +6,7 @@
 
 ## Dumped Data for Evaluation of IntelliMerge:
 
-Directly use the dumped data used in the evaluation of IntelliMerge, no need to run the :
+Directly use the dumped data used in the evaluation of IntelliMerge without running the tool to collect:
 
 1. Download the dumped data: `stats/20190401.sql`;
 
